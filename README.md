@@ -7,7 +7,7 @@ I have been working with SEO for over 10 years, and in 2022, I discovered the op
 </p>
 
 <p align="left">
-  I love: SEO 🔎, Python 🐍 and my 2 cats 🐈‍⬛🐈
+  I love: SEO 🔎, Python 🐍, my wife 👱🏻‍♀️ and my 2 cats 🐈‍⬛🐈
 </p>
 
 <p align="left">
