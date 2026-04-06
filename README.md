@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/4KxV33X/0c6881f989939b2198c560064831753bcb050459075791d6b6c588f1.jpg" min-width="400px" max-width="400px" width="300px" align="right">
-
 <p align="left"> 
 Hello there, I'm Vinicius, an SEO Specialist and a Python enthusiast with a side hustle of being a full-time cat aficionado.
 
