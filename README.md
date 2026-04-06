@@ -1,5 +1,5 @@
 <p align="left"> 
-Hello there, I'm Vinicius (aka Vini), an SEO Specialist and a Python enthusiast, currently working as a Technical SEO Director at @locomotive-agency.
+Hello there, I'm Vinicius (aka Vini), an SEO Specialist and a Python enthusiast, currently working as a Technical SEO Director at <a href="https://github.com/locomotive-agency" target="_blank" alt="@locomotive-agency">@locomotive-agency</a>
 
 I have been working with SEO for over 13 years, and in 2022, I discovered the opportunity to create tools using Python to automate and facilitate my work as an SEO. In addition, it enables new types of analysis. I've been learning ever since, and here you are going to find some of my development ideas.
 </p>
